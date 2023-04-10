@@ -1,0 +1,201 @@
+Package: com.hk.choicy.cn.rl
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Choicy 简体中文包(rootless).deb
+Size: 4316
+MD5sum: 92a237223740c28120efc9d319bb2079
+SHA1: 097606c122ce31264afc8f696008698501481619
+SHA256: 641a8abc6fc4aab0f1155c8f7c85feb7e130f4cd0e6c650851f93f17456e082e
+Section: 嗨-汉化
+Description: Choicy 简体中文包(rootless)。
+Author: 妖刀
+Name: Choicy 简体中文包(rootless)
+
+Package: com.hk.cylinder.cn.rl
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/CylinderReborn 中文修复包.deb
+Size: 2296
+MD5sum: 1ed6ca956d1a7130e92b1db7ba94a34d
+SHA1: 596ff9a06c9d6502074ebad990d4716ea8687a14
+SHA256: 4b4de7fc6c1689263de0a946fe289fe021867b3a7282ffcd19694342be5a6181
+Section: 嗨-汉化
+Description: CylinderReborn 中文修复包(rootless)。
+Author: 妖刀
+Name: CylinderReborn 中文修复包(rootless)
+
+Package: com.hk.ezswipe.cn.rl
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/EZSwipe 简体中文包(rootless).deb
+Size: 1484
+MD5sum: 4b1e97a4814f3740dabb71a22528754c
+SHA1: 710e8070f158c46bf508c48b145696077b5cf0a6
+SHA256: 6d93e3936a3c574f6208c4fb4b9c690d1ed036d91a73f94a83ec9abd7043292b
+Section: 嗨-汉化
+Description: EZSwipe 简体中文包(rootless)。
+Author: 妖刀
+Name: EZSwipe 简体中文包(rootless)
+
+Package: com.hk.jjolano.shadow.cn.rl
+Version: 3.7.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Shadow 简体中文包(rootless).deb
+Size: 3064
+MD5sum: 5713c9c7c89c996c9e95cb63bf88b697
+SHA1: 8351d140dec14aac8d0c482b1eabf3a537897dc8
+SHA256: 09c79d918ed435e6b1ea328bcab21b1e23dc2917061395a779f43ea38a7d0a36
+Section: 嗨-汉化
+Description: Shadow 简体中文包(rootless)。
+Author: 妖刀
+Name: Shadow 简体中文包(rootless)
+
+Package: com.hk.rootless.cc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring
+Filename: rootless/CCLess++(rootless).deb
+Size: 78050
+MD5sum: 41d7445a5146a23b4df98ddccd475745
+SHA1: 66fdeed959a0481991e477e5d50e4e40af3f1628
+SHA256: c3a4943bf83896a5f3733121b156c7126e668a688e772a6386b772582022c281
+Section: 嗨-工具
+Description: skypain大佬制作的控制中心的定位、注销、设置模块。
+Author: Mr.Zhang
+Name: CCLess++(rootless)
+
+Package: com.hk.rootless.cc
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless
+Filename: rootless/CCLess++(rootless)_1.1.deb
+Size: 135750
+MD5sum: e02849f8dafde39b73d9334408e137b1
+SHA1: 973d6759fa663054d184a057ced9a7fd6a245306
+SHA256: 9ee7d7c68e4f8ea390f57fbf75f35de4efa10465023df4b2e5f1f86bb0b84b8c
+Section: 嗨-工具
+Description: skypain大佬制作的控制中心的定位、注销、设置模块。Netskao的一键清角标，SOPPPra的实时CPU使用率。
+Author: 妖刀
+Name: CCLess++(rootless)
+
+Package: com.hk.rootless.cc
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless
+Filename: rootless/CCLess++(rootless)_1.2.deb
+Size: 158752
+MD5sum: 75282033cc062ec392cd6711f51e4c67
+SHA1: ae2bf72c41aef5d8642058da55798e348e521eff
+SHA256: 7214876b12abff9872444505e9ec85e532cb2b455109f21f029dba47a7ccd1ec
+Section: 嗨-工具
+Description: skypain大佬制作的控制中心的定位、注销、设置模块。Netskao的一键清角标、微信扫码、支付宝扫码模块。SOPPPra的实时CPU使用率模块。mtac的系统运行时间模块。
+Author: 妖刀
+Name: CCLess++(rootless)
+
+Package: com.hk.rootless.cc
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn
+Filename: rootless/CCLess++(rootless)_1.3.deb
+Size: 244228
+MD5sum: a4655f0861cebabe1fa8194bf0f73257
+SHA1: 065b07f6b5b7420b474a576bbd31daf82241a6cf
+SHA256: 3f77a6343ead895b48710d6947aae74ec37ec4fddd7ddd4be7e16b1d576f3141
+Section: 嗨-工具
+Description: skypain大佬制作的控制中心的定位、注销、设置、VPN模块。Netskao的一键清角标、微信扫码、支付宝扫码模块。SOPPPra的实时CPU使用率模块。mtac的系统运行时间模块。
+Author: 妖刀
+Name: CCLess++(rootless)
+
+Package: com.hk.snowboard.cn.rl
+Version: 1.5.9~beta3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Snowboard 中文修正包(rootless).deb
+Size: 3668
+MD5sum: d760d4c3e6f012aa484404671f603073
+SHA1: 468338126a571a5f0228fc51738d1c560dcac5ae
+SHA256: 8a9e6805750c3ed2e5cf9b31b3cbe8a1ce805c5c0180a0ac370633de9e1ac2b5
+Section: 嗨-汉化
+Description: Snowboard 中文修正包(rootless)。
+Author: 妖刀
+Name: Snowboard 中文修正包(rootless)
+
+Package: com.hk.storeswitcher2.rl
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: subdiox
+Depends: firmware (>= 15), mobilesubstrate
+Conflicts: com.lenglengyu.storeswitcher2-rootless
+Filename: rootless/StoreSwitcher2(rootless).deb
+Size: 108452
+MD5sum: a5ef7f55dbb948029cf743d6607cf318
+SHA1: c2c186194ade6f9d7897ec4b3ab311d06671f7fa
+SHA256: 6cc642fc89622c3e3a9d48e5028f3fcd79a6ac82df44fbeb6be33aca4a63fa84
+Section: 嗨-工具
+Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中快速切换账号。
+Author: subdiox
+Name: StoreSwitcher2(rootless)
+
+Package: com.rootless.hk.axon
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn
+Filename: rootless/Axon(rootless).deb
+Size: 145260
+MD5sum: 34fd0a6ccb0f9009af5e703860788c20
+SHA1: d8e35a2fcb0c6b743b25050bd31dedac34f08c55
+SHA256: cdc9cfad82680dfe6cc45a53968203fe73d7c12c1f6876e9365665f6ef0630d6
+Section: 嗨-工具
+Description: Acreson适配支持iOS15的Axon，锁屏通知聚合插件，已添加中文汉化包。
+Author: Nepeta & Baw Appie & Acreson
+Name: Axon(rootless)
+Sponsor: Acreson <342080124@qq.com>
+
+Package: com.skypain.minilsp
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Filename: rootless/MiniLsp(rootless).deb
+Size: 8350
+MD5sum: 5a2f0dc540ba25943b730fc79ac8f4aa
+SHA1: f3aa56e21c8a17f0b17c5dfcd69c40c54d6a4942
+SHA256: a4358a9d01cf541e30ddcd4b115aefbad65239b442920ad5f306f2e3cbecc07d
+Section: 嗨-工具
+Description: 迷你锁屏播放器，无设置。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: MiniLsp(rootless)
+
+Package: org.coolstar.sileonightly
+Version: 2.4+20230402.1680449342.40fab61
+Architecture: iphoneos-arm64
+Maintainer: Huchundong <huchundong.com>
+Filename: rootless/Sileo(rootless).deb
+Size: 2370720
+MD5sum: 3fa0b466524e509f363a3ff22eaed4c6
+SHA1: 3cf52bdf18ff232874cff5c022225e2ad44ef99e
+SHA256: 40840d2e66209bcf432d51a2b8bcf5d64e14b89c7ba825eb08d28dc4d40b679a
+Section: 嗨-工具
+Description: Huchundong大佬完善中文，增加全部忽略更新的Sileo。
+Author: Amy While <me@anamy.gay>
+Name: Sileo(rootless)
+
