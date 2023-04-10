@@ -1,2 +1,2 @@
 # 轻悦
-* cydia源：https://lyujie-xm.github.io/repo/
+* cydia源：https://lyujie-xm.github.io
