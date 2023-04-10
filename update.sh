@@ -1,24 +1,17 @@
-#!/bin/sh
-dpkg-scanpackages --multiversion root > Packages
-dpkg-scanpackages --multiversion rootless >> Packages
+#!/bin/bash
+# dpkg-scanpackages -m ./debs > ./Packages
+# bzip2 -fks ./Packages
 
-cat Packages | xz > Packages.xz
-cat Packages | bzip2 > Packages.bz2
-cat Packages | gzip > Packages.gz
-cat Packages | lzma > Packages.lzma
-cat Packages | zstd > Packages.zst
+# echo "生成成功！"
 
-apt-ftparchive\
- -o APT::FTPArchive::Release::Origin="DaoDao"\
- -o APT::FTPArchive::Release::Label="DaoDao"\
- -o APT::FTPArchive::Release::Suite="stable"\
- -o APT::FTPArchive::Release::Version="1.0"\
- -o APT::FTPArchive::Release::Codename="ios"\
- -o APT::FTPArchive::Release::Architectures="iphoneos-arm iphoneos-arm64"\
- -o APT::FTPArchive::Release::Components="main"\
- -o APT::FTPArchive::Release::Description="YaoDao's tweak repository"\
- release . > Release
 
-git add .
-git commit -m "update repo"
-git push
+echo "搜索.DS_Store文件并刪除它們"
+find ./ -iname ".DS_Store" -exec rm {}  \;
+echo ".DS_Store 文件已刪除"
+echo "开始重新压缩deb"
+dpkg-scanpackages -m . /dev/null >Packages
+echo "完成压缩deb"
+rm ./Packages.bz2
+echo "刪除Paackages.bz2"
+bzip2 -fks Packages
+echo "重新产生Paackages.bz2完成"
