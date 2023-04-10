@@ -452,22 +452,6 @@ Author: bb
 Dev: bb
 Name: 开心消消乐助手
 
-Package: qingyue.ddtcrack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 320
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/qingyue.ddtcrack_1.1-1_iphoneos-arm.deb
-Size: 105316
-MD5sum: e3ea9f402dcf8d5ebd8a6a13fbbc0c7a
-SHA1: 2ef897ac735cb1cdc5406c22314aac38edcf1b5d
-SHA256: 1e81a15f2b687593f670d41469c174cfceafebfac2697e2bcf00fb88d97c56dc
-Section: 解锁
-Description: 抖斗图解锁全功能，包括展示面 2021.6.27
-Author: Netskao
-Name: 抖斗图 Crack
-
 Package: qingyue.fonts.mwzt2
 Version: 2.8
 Architecture: iphoneos-arm
@@ -499,22 +483,6 @@ Description: Lightricks应用七件套解锁全功能，七件套包括（Facetu
 Author: Netskao
 Name: Lightricks Crack
 
-Package: qingyue.qycrack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 352
-Depends: firmware (>= 12.4), mobilesubstrate
-Filename: ./debs/netskao.qycrack_1.1-1_iphoneos-arm.deb
-Size: 110302
-MD5sum: 78920cba19d9ef7cd6130eaf04883e2f
-SHA1: 3fd50ed65c942061573807055d54d8ffd8679c97
-SHA256: 14d02602784e41a028e8cd4406326fa50dfe4a38caa8e4011b47c5e5d54a9a1e
-Section: 解锁
-Description: 巧影解锁全功能
-Author: Netskao
-Name: 巧影 Crack
-
 Package: qingyue.routefakerx
 Version: 2.7-1k
 Architecture: iphoneos-arm
@@ -530,22 +498,6 @@ Section: 定位
 Description: Herhangi bir Uygulamada Konumunuzu değiştirin.
 Author: CUNSTUCK
 Name: RouteFakerX
-
-Package: qingyue.syjlcrack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 352
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/qingyue.syjlcrack_1.1-1_iphoneos-arm.deb
-Size: 105564
-MD5sum: 2629519972c27afac3d5835a977927dc
-SHA1: 3cf78c2dc57b0b46e4e4e9948c1a62824c47e698
-SHA256: 2c9a301a760332a625dd2c77604ab4da7ea07d0eccf50aa8aada8e9b88f69859
-Section: 解锁
-Description: 水印精灵解锁全功能，去除所有广告
-Author: Netskao
-Name: 水印精灵 Crack
 
 Package: qingyue.videostarcrack
 Version: 1.1-1
