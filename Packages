@@ -351,11 +351,11 @@ Installed-Size: 475
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
 Conflicts: net.howett.theos, com.randy420.encrypt
 Filename: ./debs/com.randy420.tai_5.1.8_iphoneos-arm.deb
-Size: 39142
-MD5sum: 40c1ecd28c22c1f6ffebfb3a9f0438cd
-SHA1: 4192fc46278895d15c827d5eceb4c1272523e630
-SHA256: ac7fef04a7fde0295b6c54d6210dae3327cec45f928e9690afa9f27db9449a1c
-Section: Utilities
+Size: 39316
+MD5sum: 65a65ea9fdd5dcbf883ac1e4bb3aad97
+SHA1: 33bbdfb89eb919051fb26b8fe56ea33398dc562d
+SHA256: 7a6015fd6114f7e81defcb216f7c5a40bb01e02175300c1656e84a341249bf86
+Section: Randy420
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
 Description: Install theos and setup everything you need with 1 simple command
 Tag: purpose::console
@@ -372,11 +372,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 2215
 Depends: ws.hbang.common, preferenceloader
 Filename: ./debs/com.randy420.tools_2.1_iphoneos-arm.deb
-Size: 805666
-MD5sum: baef2f38759f9bf4f26d01417a5502c9
-SHA1: 53359c0c2e1857644260b06f3f6935431fc31696
-SHA256: 9f0c50ed3ceb0fe00255539c441106911dcbc9d0553ed37074063f4d86e7c519
-Section: Development
+Size: 805892
+MD5sum: 33da7802e863a5d23687a29c7569f884
+SHA1: ef930d475a892e14b9e8b58873a89af2008df5da
+SHA256: f40d1a6ebef29f280bf79b761abc504167fce05a63dec3d84a0c846fcaa2081a
+Section: Randy420
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
 Description: Tools for Randy420's tweaks
 Tag: role::developer, purpose::library
@@ -570,11 +570,11 @@ Installed-Size: 359
 Depends: mobilesubstrate, com.randy420.tools (>=1.7)
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
 Filename: ./debs/ru.rj.ftt_0.6_iphoneos-arm.deb
-Size: 42934
-MD5sum: 320dc86f90a668e24de54e0b326a8cce
-SHA1: 6c2ed3f5abe19e0768de0abdc41340ff3cfa20d8
-SHA256: f13dd82f18e0e30e9273876d039d8ea55a00dcb23f8bbdc2f70b0b0ab9ff1310
-Section: Utilities
+Size: 43032
+MD5sum: aac93c2705d18e2e2082e0864ac98c8a
+SHA1: 7160f5c596e7bbebd1e3e96c2b69009c803bdb9c
+SHA256: 1946f7be0defc98e9005aa2ec0322f0e2c07ab0deca0868b43374976a81c65e0
+Section: Randy420
 Description: Конвертация Flex патчей в твики
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://rejail.ru/depiction.php?file=ftt
