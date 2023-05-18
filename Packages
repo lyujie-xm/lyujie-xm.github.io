@@ -484,23 +484,6 @@ Description: Herhangi bir Uygulamada Konumunuzu değiştirin.
 Author: CUNSTUCK
 Name: RouteFakerX
 
-Package: qingyue.sougounoad.rootless
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 轻悦
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/qingyue.sougounoad.rootless_0.0.1_iphoneos-arm64.deb
-Size: 79780
-MD5sum: ecb8d181a0e378b6da86cee5fc475433
-SHA1: 975c1795bd0cc2cd4fbc226a95cb6715dd4cfe0b
-SHA256: cfa056ab929ea946e0545b581e237f2b7cbc4a245c432ad3a137c985a5007ff7
-Section: Rootless
-Description: 去广告
-Author: 轻悦
-Name: 搜狗去广告-Rootless
-Sponsor: 轻悦
-
 Package: qingyue.videostarcrack
 Version: 1.1-1
 Architecture: iphoneos-arm
