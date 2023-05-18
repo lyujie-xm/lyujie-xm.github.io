@@ -75,57 +75,6 @@ Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
-Package: com.25mao.leftpan.rootless
-Version: 1.0-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Filename: ./debs/com.25mao.leftpan.rootless_1.0-3_iphoneos-arm64.deb
-Size: 43584
-MD5sum: 9911d386f237c756d950edc640a2329c
-SHA1: 3cb793e6558044a0b25d525c03b3a70017c2e6ef
-SHA256: 0af03854a46286607d9b9c3dde6c10b851595ec55f8cf9ef84c209db73c69c0e
-Section: Rootless
-Priority: optional
-Description: 左滑返回上一页面
-Author: Mao
-Name: 左滑返回-Rootless
-
-Package: com.jontelang.snapper2.packix
-Version: 2.6.0
-Architecture: iphoneos-arm64
-Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware (>= 12.1)
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: ./debs/Snapper2-2.6.0.deb
-Size: 410856
-MD5sum: 2f3097b60b2b21776266cbf09fc93ea2
-SHA1: 71cf74aa5ea9ab65b742050f6e72e6fb266aec03
-SHA256: 7e8616d603cbe14d01f444cec3e7486a3a1e6ec005590f3a8676a3a42ff0bbbe
-Section: Tweaks
-Description: Pin screenshots on the screen.
-Author: Jonathan Winger-lang
-Name: Snapper 2
-
-Package: com.noisyflake.velvet2
-Version: 2.0.3
-Architecture: iphoneos-arm64
-Maintainer: NoisyFlake <support@noisyflake.com>
-Installed-Size: 596
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.initwithframe.velvet
-Filename: ./debs/velvet2-2.0.3.deb
-Size: 93288
-MD5sum: 6c4db47c7167406b8ea206af2c1cf448
-SHA1: 232ef7cdc85f7100893b6ccfc09e1d37263b9c40
-SHA256: ccd2ed8c2f334f0896ae22377d19a6296239da2746662993e42f8cbb3e5a0ba6
-Section: Tweaks
-Description: A fully customizable notification experience
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: NoisyFlake <support@noisyflake.com>
-Depiction: https://chariz.com/buy/velvet-2
-Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
-Name: Velvet 2
-
 Package: com.qingyue.accelerator
 Version: 1.1.4
 Architecture: iphoneos-arm
