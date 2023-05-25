@@ -75,6 +75,22 @@ Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
+Package: com.lclrc.hammerit
+Version: 0.5.2
+Architecture: iphoneos-arm64
+Maintainer: lclrc
+Installed-Size: 972
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lclrc.hammerit_0.5.2_iphoneos-arm64.deb
+Size: 171232
+MD5sum: 089b1af2fe147701f6d78fddc478ce48
+SHA1: 2151b2857426fbd4afe288ce9908b8de4253e25d
+SHA256: 9d4c556e75ae492208a8edf5046faed6434a1e577fc47eab2852bf0104fc1d56
+Section: Tweaks
+Description: Another BigBang tweak.
+Author: lclrc
+Name: HammerIt
+
 Package: com.qingyue.accelerator
 Version: 1.1.4
 Architecture: iphoneos-arm
@@ -517,4 +533,20 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://rejail.ru/depiction.php?file=ftt
 Name: Flex To Theos
 Sileodepiction: https://rejail.ru/sileo/depiction.php?file=ftt
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
 
