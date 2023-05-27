@@ -571,6 +571,22 @@ Architecture: iphoneos-arm64
 Maintainer: zp, SXX, Domo
 Installed-Size: 484
 Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
 Filename: ./debs/rootless/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
 Size: 118810
 MD5sum: d840fbf5f171c01b001081964feca17c
