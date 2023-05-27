@@ -1,5 +1,5 @@
 #!/bin/sh
-dpkg-scanpackages --multiversion rootfull > Packages
+dpkg-scanpackages --multiversion root > Packages
 dpkg-scanpackages --multiversion rootless >> Packages
 
 cat Packages | xz > Packages.xz
@@ -9,14 +9,14 @@ cat Packages | lzma > Packages.lzma
 cat Packages | zstd > Packages.zst
 
 apt-ftparchive\
- -o APT::FTPArchive::Release::Origin="轻悦"\
- -o APT::FTPArchive::Release::Label="轻悦"\
+ -o APT::FTPArchive::Release::Origin="DaoDao's Repo"\
+ -o APT::FTPArchive::Release::Label="DaoDao's Repo"\
  -o APT::FTPArchive::Release::Suite="stable"\
  -o APT::FTPArchive::Release::Version="1.0"\
  -o APT::FTPArchive::Release::Codename="ios"\
  -o APT::FTPArchive::Release::Architectures="iphoneos-arm iphoneos-arm64"\
  -o APT::FTPArchive::Release::Components="main"\
- -o APT::FTPArchive::Release::Description="轻悦"\
+ -o APT::FTPArchive::Release::Description="DaoDao's tweak repository"\
  release . > Release
 
 git add .
