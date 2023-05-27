@@ -1,4 +1,2 @@
-
-## repo for Fugu15 max rootless
-
-Just for fun/纯属自用
+# 轻悦
+* cydia源：https://lyujie-xm.github.io
