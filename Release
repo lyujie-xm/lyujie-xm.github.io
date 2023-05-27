@@ -1,9 +1,7 @@
-Origin: 排骨的软件源
-Label: Tccpg
+Origin: 轻悦
 Suite: stable
 Version: 1.7
-Codename: Tccpg
 Architectures: iphoneos-arm
 Components: main
-Description: 排骨的软件源
+Description: 轻悦
 
