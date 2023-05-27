@@ -81,22 +81,6 @@ Architecture: iphoneos-arm64
 Maintainer: lclrc
 Installed-Size: 1004
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.lclrc.hammerit_0.6_iphoneos-arm64.deb
-Size: 181034
-MD5sum: f03febee748cae70226b9c8e94d3dc8c
-SHA1: 0531295dcb084a4566f6576ef72123028de77c90
-SHA256: 72e14ba338cbcf9ace2758ec85724e916078b3c802b3aed336e69d34bcfa4a67
-Section: Tweaks
-Description: Another BigBang tweak.
-Author: lclrc
-Name: HammerIt
-
-Package: com.lclrc.hammerit
-Version: 0.6
-Architecture: iphoneos-arm64
-Maintainer: lclrc
-Installed-Size: 1004
-Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/rootless/com.lclrc.hammerit_0.6_iphoneos-arm64.deb
 Size: 181034
 MD5sum: f03febee748cae70226b9c8e94d3dc8c
