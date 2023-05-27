@@ -76,16 +76,32 @@ Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
 Package: com.lclrc.hammerit
-Version: 0.5.2
+Version: 0.5.3
 Architecture: iphoneos-arm64
 Maintainer: lclrc
 Installed-Size: 972
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.lclrc.hammerit_0.5.2_iphoneos-arm64.deb
-Size: 171232
-MD5sum: 089b1af2fe147701f6d78fddc478ce48
-SHA1: 2151b2857426fbd4afe288ce9908b8de4253e25d
-SHA256: 9d4c556e75ae492208a8edf5046faed6434a1e577fc47eab2852bf0104fc1d56
+Filename: ./debs/com.lclrc.hammerit_0.5.3_iphoneos-arm64.deb
+Size: 172664
+MD5sum: db6b4c2d442068985d1ddd6621807dd6
+SHA1: 25f4f349394801396aec67e94e945822d7b67362
+SHA256: 4a80e48f15b98ef1b79bb5817c83a05ce0dda3981e1c72080d8b53d99abe147b
+Section: Tweaks
+Description: Another BigBang tweak.
+Author: lclrc
+Name: HammerIt
+
+Package: com.lclrc.hammerit
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: lclrc
+Installed-Size: 1004
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lclrc.hammerit_0.6_iphoneos-arm64.deb
+Size: 181034
+MD5sum: f03febee748cae70226b9c8e94d3dc8c
+SHA1: 0531295dcb084a4566f6576ef72123028de77c90
+SHA256: 72e14ba338cbcf9ace2758ec85724e916078b3c802b3aed336e69d34bcfa4a67
 Section: Tweaks
 Description: Another BigBang tweak.
 Author: lclrc
