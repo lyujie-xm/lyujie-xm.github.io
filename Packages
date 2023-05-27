@@ -470,16 +470,16 @@ Dev: bb
 Name: 开心消消乐助手
 
 Package: qingyue.360mobilesafe
-Version: 1.9-1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 轻悦
 Installed-Size: 656
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/qingyue.360mobilesafe_1.9-1_iphoneos-arm64.deb
-Size: 7300
-MD5sum: ed16ceb9e3745d9bd74210494f3fe3f7
-SHA1: 985b22ac73770ea941356c66e175501885ed1f0a
-SHA256: 5e94f66721fa00c94b19630ca6258957c5e625f77647e2f08ac98b2621d7b80d
+Filename: ./debs/qingyue.360mobilesafe_1.0_iphoneos-arm64.deb
+Size: 7260
+MD5sum: 872ac4758ecfb4e9840662ba9df38af8
+SHA1: e1b27ecda74c414532af84ef0fc68f0ae8d295b4
+SHA256: b8d1fcf7d9da9b2327ba2adeb3207a24f651968ce9c85f93f4c36fded2e382b3
 Section: 广告
 Description: 去除启动广告
 Author: 轻悦
