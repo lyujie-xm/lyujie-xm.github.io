@@ -1,0 +1,583 @@
+Package: cn.qingyue.dlgmemorinjected
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 1703
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/rootfull/cn.qingyue.dlgmemorinjected_1.2.1_iphoneos-arm.deb
+Size: 362016
+MD5sum: ac8ff2766f0aadff7743bb90586254ae
+SHA1: 3500bd5835aea5e9605126b4d2490a6e2f8625ed
+SHA256: bec7bd092707ca1a5337efbd8b78c18c8691cad43487d719f8a6f532b208e13f
+Section: Tweaks
+Description: DLGMemor内存修改器 多用于游戏修改
+Author: AnonymousXiOSdeV
+Name: DLGMemor Injected 「内存修改器」
+
+Package: cn.qingyue.fakegps
+Version: 3.6.4
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 10817
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: ./debs/rootfull/cn.qingyue.fakegps_3.6.4_iphoneos-arm.deb
+Size: 4403278
+MD5sum: ba0c73439d9bc4ee091ba7915a6b37c2
+SHA1: 2ae45427d79a0b632605b5c5c6a8b6bef530e135
+SHA256: 69c2b3e1db3ef1bfe7c5dda077549c0bb0eb2473bdab534758dea6c64c2eebf1
+Section: ios13
+Description: 定位修改大师，直装破解版
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+A12: 1
+Author: suifeng
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: FakeGPS定位修改大师
+Sponsor: 轻悦
+
+Package: cn.qingyue.reprovision
+Version: 0.6.2~release
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke
+Installed-Size: 23301
+Depends: firmware (>= 9.0)
+Conflicts: cn.qingyue.reprovisionzh
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/rootfull/cn.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 16300530
+MD5sum: e5d47883f5ce1be142bb852b6d60905d
+SHA1: f99f75ef3e5afc92b31d0231644cebee76027f92
+SHA256: c7826de5fc5c10f7fa20fed86f51df52adf2084fd3eaf843bdec680032174051
+Section: Tweaks
+Description: 签名IPA软件
+Author: Soh Satoh, Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: ReProvision「签名工具汉化版」
+Sponsor: 轻悦
+
+Package: cn.qingyue.snowboardh
+Version: 1.4.7~Beta4
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 12386
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard,cn.yttxcs.snowboard.settingsicons, cn.yttxcs.snowboard.proceduralwallpapers, cn.yttxcs.snowboard.masks,cn.yttxcs.snowboard, cn.yttxcs.snowboard.statusbar, cn.yttxcs.snowboard.respringextension, cn.yttxcs.snowboard.presetextension, cn.yttxcs.snowboard.pagedots, cn.yttxcs.snowboard.labels, cn.yttxcs.snowboard.fonts, cn.yttxcs.snowboard.effects, cn.yttxcs.snowboard.dock
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/rootfull/cn.qingyue.snowboardh_1.4.7~Beta4_iphoneos-arm.deb
+Size: 3955040
+MD5sum: 1eff6ca03aa04746003abade42eeac40
+SHA1: dfb759691c189072d47248f5250d07e3da23451a
+SHA256: 8655a3c4254bbc45b3bd09dd75c4a6bac252b6ae32bdb30d246b9464f13af49e
+Section: Tweaks
+Description: 滑雪板整合版,SnowBoard滑雪板主题平台
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard 滑雪板主题整合安装
+
+Package: com.lclrc.hammerit
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: lclrc
+Installed-Size: 1004
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/rootless/com.lclrc.hammerit_0.6_iphoneos-arm64.deb
+Size: 181034
+MD5sum: f03febee748cae70226b9c8e94d3dc8c
+SHA1: 0531295dcb084a4566f6576ef72123028de77c90
+SHA256: 72e14ba338cbcf9ace2758ec85724e916078b3c802b3aed336e69d34bcfa4a67
+Section: Tweaks
+Description: Another BigBang tweak.
+Author: lclrc
+Name: HammerIt
+
+Package: com.qingyue.accelerator
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Depends: firmware (>= 5.1)
+Conflicts: xx.plugin.accelerator
+Filename: ./debs/rootfull/com.qingyue.accelerator_1.1.4_iphoneos-arm.deb
+Size: 1037646
+MD5sum: 06df0d07b4790e345927f9784367411e
+SHA1: ffc631bab48e4f3b181d0cbad07408368007cc30
+SHA256: 61812a0f1a9a99d18cd2ccc35af7d3667dcb17d4b85f3d36056051e131a30048
+Section: 叉叉
+Description: 叉叉加速器主程序
+Author: 叉叉助手
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: xxplugin 加速主程序
+Pushstar: 0
+Scs: 4
+Sponsor: 轻悦
+
+Package: com.qingyue.font.lmyypro14
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.qingyue.font.lmyypro14_1.0_iphoneos-arm.deb
+Size: 96573076
+MD5sum: 2876c6a56d06ff71fd07756c925c6bde
+SHA1: 1d7a3bffb1d779b9c2a35942d8aa1a26f8739c2c
+SHA256: 4df06192aef8ae586d6b610f5edec48f1b5495ebc04e953f02a285b17a0e1fe8
+Section: 字体
+Description: 浪漫雅圆6字重中文(拾陆字)，SF Compact Rounded多字重动态英文(Alexman)。iOS11~14加入kupord定制的盲文。自动适应iOS11.x~14.x直装版字体，安装前先卸载已安装的直装字体，自动备份原机字体，卸载即可还原。
+Author: 佚名
+Name: 浪漫雅圆Pro(iOS11~14)
+
+Package: com.qingyue.gpsmanager
+Version: 1.8.8
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./debs/rootfull/com.qingyue.gpsmanager_1.8.8_iphoneos-arm.deb
+Size: 4130450
+MD5sum: c63ac7c6386d9edf785c119e6c2ea435
+SHA1: c7c0452a665b2b7190dd779f0b6490db0a2501ae
+SHA256: dfada72af3ac218b40d576e5c931c1d9867d79d9d11c4efa0045018d039268be
+Section: ios13
+Description: 虚拟定位,随时随地定位修改打卡。
+Author: chencong & 7Loopy
+Name: GPSmanager-GPS定位管家破解版
+
+Package: com.qingyue.jumpadvideo
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.qingyue.jumpadvideo_0.1-3_iphoneos-arm.deb
+Size: 46860
+MD5sum: 74696b6aa448db2073588b93d5e3e4ba
+SHA1: 7aafc27e22d5fbda3bf0914b242a02d6847514cb
+SHA256: d368eb184f1cce239daf474c31f381866cefc45ddf59cb3ccf4c0b26443b9799
+Section: Tweaks
+Priority: optional
+Description: 主要针对调用调用AVPlayer播放视频广告的各种小游戏，例如微信小游戏，支持BU、GDT开头的激励视频广告，更新为3DTouch启用插件功能
+A12: 1
+Author: 轻悦
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: 激励视频跳过助手
+
+Package: com.qingyue.libsparkapplist
+Version: 1.0.10
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 404
+Filename: ./debs/rootfull/com.qingyue.libsparkapplist_1.0.10_iphoneos-arm.deb
+Size: 55100
+MD5sum: af5ed7dc1763091c1a895204e43bcf68
+SHA1: 6ff1b6f3e5359e9eb7d2ee0051cfa8ab2dccb07a
+SHA256: 2b1dd28a42a4034a8ca602da5b3f9ddc4cafb2e380f70edff58b655d258c1dcb
+Section: 叉叉
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: libSparkAppList
+Sponsor: 轻悦
+
+Package: com.qingyue.nfcwriterxcrack
+Version: 3.2-77+debug
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriterx
+Filename: ./debs/rootfull/com.qingyue.nfcwriterxcrack_3.2-77+debug_iphoneos-arm.deb
+Size: 1320394
+MD5sum: ad9d6225d21b4b7c7521e0ea79cfd145
+SHA1: 10847bfb1eb3ff03d1e2bcaf193cf5d2c2fa4945
+SHA256: de93c54b701e5759cd4cc6617a673239fbabec21c8c4820f492cd0e2bca3746e
+Section: Tweaks
+Description: 激活iOS设备 NFC(近场通讯)功能
+Author: Elias Limneos
+Name: NFCWriter XS Crack
+
+Package: com.qingyue.nfcwriterxs.cn
+Version: 1.0-40
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.qingyue.nfcwriterxs.cn_1.0-40_iphoneos-arm.deb
+Size: 10348
+MD5sum: 2cc80c23396585831900ae9f67e56130
+SHA1: 029dad7f9910ec26912416fbecfa845e874b0023
+SHA256: 90a540662e78a498b593c859c113db980b3a2f4c8f30dbba74dd357c9c57e1e7
+Section: Tweaks
+Author: Ball
+Name: NFCWriter XS简体中文包
+
+Package: com.qingyue.prettyuppro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.qingyue.prettyuppro_0.0.1_iphoneos-arm.deb
+Size: 13170
+MD5sum: e3c564a3e90434816eb46acfa5b16da1
+SHA1: 010fca24054423f9b1a8921fb8c441b15972cd9b
+SHA256: 7c342cf305de866d1a4384a15979ee5d9208f31ddee1fc4a0a4a169d3f1c964b
+Section: 解锁
+Description: 解锁会员权限。
+Author: lenglengyu
+Name: PrettyUp视频美化Pro
+
+Package: com.qingyue.recoverypasswd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: WZteam
+Filename: ./debs/rootfull/com.qingyue.recoverypasswd_1.0_iphoneos-arm.deb
+Size: 988
+MD5sum: cf9b2037d4079ae5a147f6dfa6c72834
+SHA1: afd964654716ad07ff8ac82944838d77d8f1ffc7
+SHA256: 4231440f10ac91c90900fe67984b78b31f415eca20dfc0ad772cd450f0a8f661
+Section: System
+Description: 初始化 Terminal 和 SSH Root账户密码
+Author: Bicycle
+Name: RecoveryPW 密码初始化
+Sponsor: ABCydia
+
+Package: com.qingyue.shuffle
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: WZteam
+Installed-Size: 1568
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/rootfull/com.qingyue.shuffle_1.1.3_iphoneos-arm.deb
+Size: 369332
+MD5sum: 2de4ae6b058af6e6e7a574bb38868023
+SHA1: dd9ac6cb8a041d992930e8352f32dfe962d0b244
+SHA256: 99d8ec0532f301b69bc041b21f5d840e2ab5133c96ef59b0d83036862e6e785b
+Section: Tweaks
+Description: 多功能自定义你的设置
+Tag: purpose::extension, compatible_min::iosiOS10
+Author: CreatureSurvive
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Name: shuffle 设置归类/增强
+
+Package: com.qingyue.syspasswdxi
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: WZteam
+Depends: firmware (>= 9.0)
+Filename: ./debs/rootfull/com.qingyue.syspasswdxi_1.0-2_iphoneos-arm.deb
+Size: 164648
+MD5sum: 68301f39ba13ee38b1aa5780fe8c8199
+SHA1: fba0f5cc1a59ef5bcf0151c14d5c680d43f02fdf
+SHA256: 5c9a38841a75635af8089ccf78d55bcd9a3cfd2c97f660c74e07fd3db37e24fd
+Section: System
+Priority: standard
+Description: 系统密码修改 增强越狱后安全性
+Tag: role::enduser
+Author: 轻悦
+Name: SYSPasswdXI 系统密码
+Sponsor: 轻悦
+
+Package: com.qingyue.wechatjbdbypass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.qingyue.wechatjbdbypass_1.0.1_iphoneos-arm.deb
+Size: 18028
+MD5sum: fd1b9df16ffa8b96421d37f24164bfa5
+SHA1: 346cd2f989b9775b91b5b574b00f72529c3b1a35
+SHA256: 8fd40d16f9fc5cea5d78b8cf7e3db7c5f10843d1b915d626d240c9dc3e95998e
+Section: 微信
+Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加强反越狱检测、小号防封。防封只针对小号越狱环境，对红包功能被禁用没有效果；大号安装则正常使用面容指纹支付功能。
+Author: 糖醋丶炒排骨
+Name: 微信JBDBypass
+
+Package: com.qingyue.wechatnullinfo
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.qingyue.wechatnullinfo_1.1-1_iphoneos-arm.deb
+Size: 59472
+MD5sum: 8b8dab3724dc24471ec42050c5344bbf
+SHA1: 29354db5536dcf9c87808c79e1a65669903d6513
+SHA256: 55d08f1706522db7862ae6d0019526e7a180466334fd7bed945ddf6cdd264ccc
+Section: 微信
+Author: 7Loopy
+Name: WeChat NullInfo - 清除微信性别
+Sponsor: 轻悦
+
+Package: com.qingyue.weibonoads
+Version: 1.3-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 520
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.qingyue.weibonoads_1.3-9_iphoneos-arm.deb
+Size: 205408
+MD5sum: 3214d956d3a4bc2e1744926579ed0b9f
+SHA1: 5d42bc18081bf2748cfe768a5b3f7f34159f4d0c
+SHA256: 2fa589506f17b3d212fb42d4ad6322e9024235c18d0bfa0c4109db3e33e4d955
+Section: 广告
+Author: Netskao
+Name: 微博/极速/国际NoAds
+
+Package: com.qingyue.xxacctoggle
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 280
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.cydiami.accelerator
+Conflicts: com.brend0n.xxacctoggle
+Filename: ./debs/rootfull/com.qingyue.xxacctoggle_0.0.3-1_iphoneos-arm.deb
+Size: 71014
+MD5sum: d75f9640de96bcc7f72b420bb33377e3
+SHA1: 33b36f7f2dacda97e674e8becb0472fd755f8ed4
+SHA256: d7987114b5554e1afca91d3e9d7f5a1742fe2cdf588c41039ea4915af6d8dc40
+Section: 叉叉
+Description: 从桌面开启叉叉助手加速器
+Author: Brendon
+Name: xxAccToggle 叉叉加速启用
+Pushstar: 0
+Scs: 9
+Sponsor: 轻悦
+
+Package: com.randy420.tai
+Version: 5.1.8
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 475
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
+Conflicts: net.howett.theos, com.randy420.encrypt
+Filename: ./debs/rootfull/com.randy420.tai_5.1.8_iphoneos-arm.deb
+Size: 39316
+MD5sum: 65a65ea9fdd5dcbf883ac1e4bb3aad97
+SHA1: 33bbdfb89eb919051fb26b8fe56ea33398dc562d
+SHA256: 7a6015fd6114f7e81defcb216f7c5a40bb01e02175300c1656e84a341249bf86
+Section: Randy420
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
+Description: Install theos and setup everything you need with 1 simple command
+Tag: purpose::console
+Author: Randy420 <randy.skinner28@outlook.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
+Dev: randy420
+Name: Theos Auto Installer
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.randy420.tools
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2215
+Depends: ws.hbang.common, preferenceloader
+Filename: ./debs/rootfull/com.randy420.tools_2.1_iphoneos-arm.deb
+Size: 805892
+MD5sum: 33da7802e863a5d23687a29c7569f884
+SHA1: ef930d475a892e14b9e8b58873a89af2008df5da
+SHA256: f40d1a6ebef29f280bf79b761abc504167fce05a63dec3d84a0c846fcaa2081a
+Section: Randy420
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Description: Tools for Randy420's tweaks
+Tag: role::developer, purpose::library
+Author: Randy420 <randy.skinner28@outlook.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Dev: randy420
+Name: 420 Tools
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: io.qingyue.wechatregiondiy
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Installed-Size: 132
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/io.qingyue.wechatregiondiy_1.0-1_iphoneos-arm.deb
+Size: 8090
+MD5sum: 689033233f757c3fc18b58e179b0bfe8
+SHA1: 63c6a3ac28f5bd886774226bbca1731c1c98ad47
+SHA256: 80543850d5081136a02c6fcdf3d97f912dfc0d8cbb94e40af283a12b3c8a8b36
+Section: 微信
+Description: 按往常一样进入微信修改地区，输入你想要的内容确定保存即可。
+Author: 轻悦
+Name: WeChatRegionDIY 微信地区自定义
+
+Package: netskao.documentscrack
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 12.2), mobilesubstrate
+Filename: ./debs/rootfull/netskao.documentscrack_1.1-2_iphoneos-arm.deb
+Size: 107218
+MD5sum: c4f4099a36ce3fafbd095fdc18c63244
+SHA1: 9b35037e8e82b9a838d16e62a1f681bd9cada19f
+SHA256: 4450ef140cc1d1a88cc1bb10531b128d7ee4a91c021a7e1ad36aff2d45308008
+Section: 解锁
+Description: Documents解锁全功能
+Author: Netskao
+Name: Documents Crack
+
+Package: netskao.zmbzcrack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/rootfull/netskao.zmbzcrack_1.1-4_iphoneos-arm.deb
+Size: 74874
+MD5sum: 437be90f3e19a483f2d96b92ae2b3f3f
+SHA1: 612b4495a1f80dc4e1586c2f22c04bf99828db07
+SHA256: 1598399f60830a9716edb5eb54ca43aa5a81999d6054acfff449e0da1f7fd575
+Section: 解锁
+Description: 最美壁纸解锁VIP壁纸和原创壁纸，解锁主题下载，去除启动广告，插入广告等
+Author: Netskao
+Name: 最美壁纸 Crack
+
+Package: org.qingyue.xiaoxiaole
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss
+Installed-Size: 477
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/org.qingyue.xiaoxiaole_1.0.4-2_iphoneos-arm.deb
+Size: 179986
+MD5sum: fa3e1d1744730beaf5a47446383584ca
+SHA1: b10c0e777bc8a9a7d3d3b8f9109ab825305c4ad0
+SHA256: 3181ecc32698ca5dcd5fa5013fd722ce47b75fa10fbfbba237c787d14e4e6126
+Section: 游戏
+Description: 1.点击“开启”按钮可以提升运气值，锁定小鸟颜色 2.“关闭” 取消锁定小鸟  游戏版本1.9.0左右
+Tag: purpose::extension
+Author: bb
+Dev: bb
+Name: 开心消消乐助手
+
+Package: qingyue.360mobilesafe
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 轻悦
+Installed-Size: 656
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/qingyue.360mobilesafe_1.0_iphoneos-arm64.deb
+Size: 12288
+MD5sum: 9a451656f87fe54a0a570dd7b6acea33
+SHA1: e454ab571e13e740e2a505a1c464a297ab72c186
+SHA256: 734675c9910b85c00e07959da48464e2cb5cb83f97d812a2c37ebd4844ed2ba6
+Section: 广告
+Description: 去除启动广告
+Author: 轻悦
+Name: 360手机卫士去广告
+
+Package: qingyue.fonts.mwzt2
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: 轻悦
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/qingyue.fonts.mwzt2_2.8_iphoneos-arm.deb
+Size: 4203580
+MD5sum: 1e7bc5836d544cb78946ef72c08eb79a
+SHA1: 9a6a07af4d696a6f2695a1a4e201bfa0831185f9
+SHA256: 5e768138dd73aca252d227987dad3fddb72228829a1474b8af3dab94b29fd7aa
+Section: 字体
+Description: 盲文字体 自动识别iOS11~14系统安装 卸载后自动还原
+Author: 轻悦
+Name: 盲文字体(iOS11-14)
+
+Package: qingyue.lightrickscrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/qingyue.lightrickscrack_1.1-1_iphoneos-arm.deb
+Size: 109164
+MD5sum: 8ceaebf438e4aa5f852fd95e7be91d2c
+SHA1: c8851cb104b4c0e95c52ab41a45142a4d113c82c
+SHA256: 8e4b2873c81f051b8798cc1638924ad4573cf9e5458590b9de3ce6c3d5addca7
+Section: 解锁
+Description: Lightricks应用七件套解锁全功能，七件套包括（Facetune2，Photoleap，Quickart，Lightleap，Beatleap，Videoleap，Motionleap）自行AppStore下载 2021.6.22
+Author: Netskao
+Name: Lightricks Crack
+
+Package: qingyue.routefakerx
+Version: 2.7-1k
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts: org.thebigboss.locationfaker8, org.thebigboss.locationchangerx, com.cunstuck.routefakerx
+Filename: ./debs/rootfull/qingyue.routefakerx_2.7-1k_iphoneos-arm.deb
+Size: 825718
+MD5sum: d23452ad31c7869b6397422d10d2fd77
+SHA1: ec4c5408aac574b8055780a9a374e782b75ad981
+SHA256: 760535951600c22724144cdd1caddabeff28780d16173bd138f637027912f0d7
+Section: 定位
+Description: Herhangi bir Uygulamada Konumunuzu değiştirin.
+Author: CUNSTUCK
+Name: RouteFakerX
+
+Package: qingyue.tencent.live4iphone
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 轻悦
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.qingyue.live4iphone_1.0_iphoneos-arm64.deb
+Size: 7078
+MD5sum: 8d7b0b8bc943ad97d024a76b69218b75
+SHA1: a8d19b0dc43067949f15d05a36af4cd21c2e0ba9
+SHA256: 9fa31091ce27e1c32e7c9e8ae6953b8c44f5940a6ba8e9b407a1f5f499c1cb95
+Section: 广告
+Description: 屏蔽更新
+Author: 轻悦
+Name: 腾讯视频屏蔽更新
+
+Package: qingyue.videostarcrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 12.2), mobilesubstrate
+Filename: ./debs/rootfull/qingyue.videostarcrack_1.1-1_iphoneos-arm.deb
+Size: 106468
+MD5sum: 9d92495417efe7aeb009506a065a0644
+SHA1: bc50787ed025b45b23983ec070f9a1bb91b6c54f
+SHA256: 2b4e318c2f6d3ca52466d8bcbefe2a04fd47c0155993489c89b134c99441b2d6
+Section: 解锁
+Description: Video Star解锁全功能
+Name: Video Star Crack
+
+Package: ru.rj.ftt
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 359
+Depends: mobilesubstrate, com.randy420.tools (>=1.7)
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/rootfull/ru.rj.ftt_0.6_iphoneos-arm.deb
+Size: 43032
+MD5sum: aac93c2705d18e2e2082e0864ac98c8a
+SHA1: 7160f5c596e7bbebd1e3e96c2b69009c803bdb9c
+SHA256: 1946f7be0defc98e9005aa2ec0322f0e2c07ab0deca0868b43374976a81c65e0
+Section: Randy420
+Description: Конвертация Flex патчей в твики
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://rejail.ru/depiction.php?file=ftt
+Name: Flex To Theos
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=ftt
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/rootless/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
+
