@@ -81,6 +81,22 @@ Architecture: iphoneos-arm64
 Maintainer: lclrc
 Installed-Size: 1004
 Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lclrc.hammerit_0.6_iphoneos-arm64.deb
+Size: 181034
+MD5sum: f03febee748cae70226b9c8e94d3dc8c
+SHA1: 0531295dcb084a4566f6576ef72123028de77c90
+SHA256: 72e14ba338cbcf9ace2758ec85724e916078b3c802b3aed336e69d34bcfa4a67
+Section: Tweaks
+Description: Another BigBang tweak.
+Author: lclrc
+Name: HammerIt
+
+Package: com.lclrc.hammerit
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: lclrc
+Installed-Size: 1004
+Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/rootless/com.lclrc.hammerit_0.6_iphoneos-arm64.deb
 Size: 181034
 MD5sum: f03febee748cae70226b9c8e94d3dc8c
@@ -459,6 +475,22 @@ Architecture: iphoneos-arm64
 Maintainer: 轻悦
 Installed-Size: 656
 Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/qingyue.360mobilesafe_1.0_iphoneos-arm64.deb
+Size: 12288
+MD5sum: 9a451656f87fe54a0a570dd7b6acea33
+SHA1: e454ab571e13e740e2a505a1c464a297ab72c186
+SHA256: 734675c9910b85c00e07959da48464e2cb5cb83f97d812a2c37ebd4844ed2ba6
+Section: 广告
+Description: 去除启动广告
+Author: 轻悦
+Name: 360手机卫士去广告
+
+Package: qingyue.360mobilesafe
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 轻悦
+Installed-Size: 656
+Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/rootless/qingyue.360mobilesafe_1.0_iphoneos-arm64.deb
 Size: 12288
 MD5sum: 9a451656f87fe54a0a570dd7b6acea33
@@ -521,6 +553,21 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 轻悦
 Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.qingyue.live4iphone_1.0_iphoneos-arm64.deb
+Size: 7078
+MD5sum: 8d7b0b8bc943ad97d024a76b69218b75
+SHA1: a8d19b0dc43067949f15d05a36af4cd21c2e0ba9
+SHA256: 9fa31091ce27e1c32e7c9e8ae6953b8c44f5940a6ba8e9b407a1f5f499c1cb95
+Section: 广告
+Description: 屏蔽更新
+Author: 轻悦
+Name: 腾讯视频屏蔽更新
+
+Package: qingyue.tencent.live4iphone
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 轻悦
+Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/rootless/com.qingyue.live4iphone_1.0_iphoneos-arm64.deb
 Size: 7078
 MD5sum: 8d7b0b8bc943ad97d024a76b69218b75
@@ -564,6 +611,22 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://rejail.ru/depiction.php?file=ftt
 Name: Flex To Theos
 Sileodepiction: https://rejail.ru/sileo/depiction.php?file=ftt
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
 
 Package: zp.cocoatop64.unject
 Version: 3.0.1
