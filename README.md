@@ -1,3 +1,3 @@
-轻悦
-* 主页：https://github.com/lyujie-xm/lyujie-xm.github.io
-* cydia源：lyujie-xm.github.io
+# 糖醋丶炒排骨的插件源
+* 主页：apt.paigu.site
+* cydia源：apt.paigu.site

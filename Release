@@ -1,9 +1,9 @@
-Origin: 轻悦
-Label: 轻悦
+Origin: 排骨的个人源
+Label: 排骨的个人源
 Suite: stable
 Version: 1.7
-Codename: 轻悦
+Codename: Tccpg
 Architectures: iphoneos-arm
 Components: main
-Description: 轻悦
+Description: 排骨的个人源
 
