@@ -1,77 +1,63 @@
-Package: cn.qingyue.dlgmemorinjected
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: 轻悦
-Installed-Size: 1703
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/cn.qingyue.dlgmemorinjected_1.2.1_iphoneos-arm.deb
-Size: 362016
-MD5sum: ac8ff2766f0aadff7743bb90586254ae
-SHA1: 3500bd5835aea5e9605126b4d2490a6e2f8625ed
-SHA256: bec7bd092707ca1a5337efbd8b78c18c8691cad43487d719f8a6f532b208e13f
+Package: com.lclrc.hammerit
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: lclrc
+Installed-Size: 1004
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.lclrc.hammerit_0.6_iphoneos-arm64.deb
+Size: 181034
+MD5sum: f03febee748cae70226b9c8e94d3dc8c
+SHA1: 0531295dcb084a4566f6576ef72123028de77c90
+SHA256: 72e14ba338cbcf9ace2758ec85724e916078b3c802b3aed336e69d34bcfa4a67
 Section: Tweaks
-Description: DLGMemor内存修改器 多用于游戏修改
-Author: AnonymousXiOSdeV
-Name: DLGMemor Injected 「内存修改器」
+Description: Another BigBang tweak.
+Author: lclrc
+Name: HammerIt
 
-Package: cn.qingyue.fakegps
-Version: 3.6.4
-Architecture: iphoneos-arm
+Package: qingyue.360mobilesafe
+Version: 1.0
+Architecture: iphoneos-arm64
 Maintainer: 轻悦
-Installed-Size: 10817
-Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
-Filename: ./debs/cn.qingyue.fakegps_3.6.4_iphoneos-arm.deb
-Size: 4403278
-MD5sum: ba0c73439d9bc4ee091ba7915a6b37c2
-SHA1: 2ae45427d79a0b632605b5c5c6a8b6bef530e135
-SHA256: 69c2b3e1db3ef1bfe7c5dda077549c0bb0eb2473bdab534758dea6c64c2eebf1
-Section: ios13
-Description: 定位修改大师，直装破解版
-Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-A12: 1
-Author: suifeng
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: FakeGPS定位修改大师
-Sponsor: 轻悦
+Installed-Size: 656
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/qingyue.360mobilesafe_1.0_iphoneos-arm64.deb
+Size: 12288
+MD5sum: 9a451656f87fe54a0a570dd7b6acea33
+SHA1: e454ab571e13e740e2a505a1c464a297ab72c186
+SHA256: 734675c9910b85c00e07959da48464e2cb5cb83f97d812a2c37ebd4844ed2ba6
+Section: 广告
+Description: 去除启动广告
+Author: 轻悦
+Name: 360手机卫士去广告
 
-Package: cn.qingyue.reprovision
-Version: 0.6.2~release
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke
-Installed-Size: 23301
-Depends: firmware (>= 9.0)
-Conflicts: cn.qingyue.reprovisionzh
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/cn.qingyue.reprovision_0.6.2~release_iphoneos-arm.deb
-Size: 16300530
-MD5sum: e5d47883f5ce1be142bb852b6d60905d
-SHA1: f99f75ef3e5afc92b31d0231644cebee76027f92
-SHA256: c7826de5fc5c10f7fa20fed86f51df52adf2084fd3eaf843bdec680032174051
-Section: Tweaks
-Description: 签名IPA软件
-Author: Soh Satoh, Matt Clarke
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: ReProvision「签名工具汉化版」
-Sponsor: 轻悦
-
-Package: cn.qingyue.snowboardh
-Version: 1.4.7~Beta4
-Architecture: iphoneos-arm
+Package: qingyue.tencent.live4iphone
+Version: 1.0
+Architecture: iphoneos-arm64
 Maintainer: 轻悦
-Installed-Size: 12386
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard,cn.yttxcs.snowboard.settingsicons, cn.yttxcs.snowboard.proceduralwallpapers, cn.yttxcs.snowboard.masks,cn.yttxcs.snowboard, cn.yttxcs.snowboard.statusbar, cn.yttxcs.snowboard.respringextension, cn.yttxcs.snowboard.presetextension, cn.yttxcs.snowboard.pagedots, cn.yttxcs.snowboard.labels, cn.yttxcs.snowboard.fonts, cn.yttxcs.snowboard.effects, cn.yttxcs.snowboard.dock
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/cn.qingyue.snowboardh_1.4.7~Beta4_iphoneos-arm.deb
-Size: 3955040
-MD5sum: 1eff6ca03aa04746003abade42eeac40
-SHA1: dfb759691c189072d47248f5250d07e3da23451a
-SHA256: 8655a3c4254bbc45b3bd09dd75c4a6bac252b6ae32bdb30d246b9464f13af49e
-Section: Tweaks
-Description: 滑雪板整合版,SnowBoard滑雪板主题平台
-Author: Spark & Dennis D. Bednarz
-Name: SnowBoard 滑雪板主题整合安装
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.qingyue.live4iphone_1.0_iphoneos-arm64.deb
+Size: 7078
+MD5sum: 8d7b0b8bc943ad97d024a76b69218b75
+SHA1: a8d19b0dc43067949f15d05a36af4cd21c2e0ba9
+SHA256: 9fa31091ce27e1c32e7c9e8ae6953b8c44f5940a6ba8e9b407a1f5f499c1cb95
+Section: 广告
+Description: 屏蔽更新
+Author: 轻悦
+Name: 腾讯视频屏蔽更新
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
 
