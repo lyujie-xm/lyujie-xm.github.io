@@ -1,9 +1,9 @@
-Origin: 排骨的个人源
-Label: 排骨的个人源
+Origin: opa334's Repo
+Label: opa334's Repo
 Suite: stable
-Version: 1.7
-Codename: Tccpg
-Architectures: iphoneos-arm
+Version: 1.0
+Codename: opa334
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: 排骨的个人源
-
+Description: opa334's Cydia Repository
+Icon: file://CydiaIcon.png
