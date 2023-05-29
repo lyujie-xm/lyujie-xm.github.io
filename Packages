@@ -597,3 +597,19 @@ Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
 Author: Domo, SXX , zp
 Name: CocoaTop64( unJECT )
 
+Package: zp.cocoatop64.unject
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 488
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/rootless/zp.cocoatop64.unject_3.0.2_iphoneos-arm64.deb
+Size: 119156
+MD5sum: 8f76fe96b69ba318eafe33f449d42a66
+SHA1: bc37f0d86e1762045870fb75e9da02f461b0d21b
+SHA256: e29960fc3753ed60f64b4321826dd8235b3a78440bbe96dc1ce5de9beba4936a
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
+
