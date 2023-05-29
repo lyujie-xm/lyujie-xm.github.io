@@ -367,6 +367,28 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 475
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
 Conflicts: net.howett.theos, com.randy420.encrypt
+Filename: ./debs/com.randy420.tai_5.1.8_iphoneos-arm.deb
+Size: 39142
+MD5sum: 40c1ecd28c22c1f6ffebfb3a9f0438cd
+SHA1: 4192fc46278895d15c827d5eceb4c1272523e630
+SHA256: ac7fef04a7fde0295b6c54d6210dae3327cec45f928e9690afa9f27db9449a1c
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
+Description: Install theos and setup everything you need with 1 simple command
+Tag: purpose::console
+Author: Randy420 <randy.skinner28@outlook.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
+Dev: randy420
+Name: Theos Auto Installer
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.randy420.tai
+Version: 5.1.8
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 475
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
+Conflicts: net.howett.theos, com.randy420.encrypt
 Filename: ./debs/rootfull/com.randy420.tai_5.1.8_iphoneos-arm.deb
 Size: 39316
 MD5sum: 65a65ea9fdd5dcbf883ac1e4bb3aad97
@@ -380,6 +402,27 @@ Author: Randy420 <randy.skinner28@outlook.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
 Dev: randy420
 Name: Theos Auto Installer
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.randy420.tools
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2215
+Depends: ws.hbang.common, preferenceloader
+Filename: ./debs/com.randy420.tools_2.1_iphoneos-arm.deb
+Size: 805666
+MD5sum: baef2f38759f9bf4f26d01417a5502c9
+SHA1: 53359c0c2e1857644260b06f3f6935431fc31696
+SHA256: 9f0c50ed3ceb0fe00255539c441106911dcbc9d0553ed37074063f4d86e7c519
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Description: Tools for Randy420's tweaks
+Tag: role::developer, purpose::library
+Author: Randy420 <randy.skinner28@outlook.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Dev: randy420
+Name: 420 Tools
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.randy420.tools
@@ -561,6 +604,25 @@ SHA256: 2b4e318c2f6d3ca52466d8bcbefe2a04fd47c0155993489c89b134c99441b2d6
 Section: 解锁
 Description: Video Star解锁全功能
 Name: Video Star Crack
+
+Package: ru.rj.ftt
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 359
+Depends: mobilesubstrate, com.randy420.tools (>=1.7)
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_0.6_iphoneos-arm.deb
+Size: 42934
+MD5sum: 320dc86f90a668e24de54e0b326a8cce
+SHA1: 6c2ed3f5abe19e0768de0abdc41340ff3cfa20d8
+SHA256: f13dd82f18e0e30e9273876d039d8ea55a00dcb23f8bbdc2f70b0b0ab9ff1310
+Section: Utilities
+Description: Конвертация Flex патчей в твики
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://rejail.ru/depiction.php?file=ftt
+Name: Flex To Theos
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=ftt
 
 Package: ru.rj.ftt
 Version: 0.6
