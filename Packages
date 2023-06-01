@@ -107,6 +107,56 @@ Description: Another BigBang tweak.
 Author: lclrc
 Name: HammerIt
 
+Package: com.lclrc.hammerit
+Version: 0.6.8
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 1016
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/rootless/com.lclrc.hammerit_0.6.8_iphoneos-arm64.deb
+Size: 188930
+MD5sum: 5d622620bee3341a4c43dbe5b8bd5fb0
+SHA1: ebe11f0753d38aa6cd2d9bdd1bc1b40bd1256b8c
+SHA256: c0c79cc12418b9f368e6c7989deb6cb883e31760b220e312e85fdda3b6143ec2
+Section: Tweaks
+Description: Another BigBang tweak.
+Author: lclrc(SquidForce)
+Name: HammerIt
+
+Package: com.lclrc.hammerit
+Version: 0.7.7
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 1108
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>= 15.0)
+Filename: ./debs/rootless/com.lclrc.hammerit_0.7.7_iphoneos-arm64.deb
+Size: 239404
+MD5sum: 1130ddac0ee6f23f05b440bbabb702cf
+SHA1: e9ce8ca67b62b027d3744b9173fc2697cec60f36
+SHA256: da2453806b985051527b5f2e887df0bdc77dc3dcd87b5c888df9f472cf176e0d
+Section: Tweaks
+Description: Another BigBang tweak.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: HammerIt
+
+Package: com.lclrc.hammerit
+Version: 0.7.7x
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 1108
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>= 15.0)
+Filename: ./debs/rootless/com.lclrc.hammerit_0.7.7x_iphoneos-arm64.deb
+Size: 239390
+MD5sum: 9e18614c1bcc30e049cb601d78454b63
+SHA1: f94607cb8babf4085c02bb6528727b2877d67348
+SHA256: 4a37f61a5531c82e82330e3d7e110d7a71b0c369b7f15356dd81a3663240b0c5
+Section: Tweaks
+Description: Another BigBang tweak.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: HammerIt
+
 Package: com.qingyue.accelerator
 Version: 1.1.4
 Architecture: iphoneos-arm
@@ -367,28 +417,6 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 475
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
 Conflicts: net.howett.theos, com.randy420.encrypt
-Filename: ./debs/com.randy420.tai_5.1.8_iphoneos-arm.deb
-Size: 39142
-MD5sum: 40c1ecd28c22c1f6ffebfb3a9f0438cd
-SHA1: 4192fc46278895d15c827d5eceb4c1272523e630
-SHA256: ac7fef04a7fde0295b6c54d6210dae3327cec45f928e9690afa9f27db9449a1c
-Section: Utilities
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
-Description: Install theos and setup everything you need with 1 simple command
-Tag: purpose::console
-Author: Randy420 <randy.skinner28@outlook.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
-Dev: randy420
-Name: Theos Auto Installer
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.randy420.tai
-Version: 5.1.8
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 475
-Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
-Conflicts: net.howett.theos, com.randy420.encrypt
 Filename: ./debs/rootfull/com.randy420.tai_5.1.8_iphoneos-arm.deb
 Size: 39316
 MD5sum: 65a65ea9fdd5dcbf883ac1e4bb3aad97
@@ -402,27 +430,6 @@ Author: Randy420 <randy.skinner28@outlook.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosautoinstallerDp
 Dev: randy420
 Name: Theos Auto Installer
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.randy420.tools
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 2215
-Depends: ws.hbang.common, preferenceloader
-Filename: ./debs/com.randy420.tools_2.1_iphoneos-arm.deb
-Size: 805666
-MD5sum: baef2f38759f9bf4f26d01417a5502c9
-SHA1: 53359c0c2e1857644260b06f3f6935431fc31696
-SHA256: 9f0c50ed3ceb0fe00255539c441106911dcbc9d0553ed37074063f4d86e7c519
-Section: Development
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
-Description: Tools for Randy420's tweaks
-Tag: role::developer, purpose::library
-Author: Randy420 <randy.skinner28@outlook.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
-Dev: randy420
-Name: 420 Tools
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.randy420.tools
@@ -612,25 +619,6 @@ Maintainer: ReJail <rejail@rejail.ru>
 Installed-Size: 359
 Depends: mobilesubstrate, com.randy420.tools (>=1.7)
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_0.6_iphoneos-arm.deb
-Size: 42934
-MD5sum: 320dc86f90a668e24de54e0b326a8cce
-SHA1: 6c2ed3f5abe19e0768de0abdc41340ff3cfa20d8
-SHA256: f13dd82f18e0e30e9273876d039d8ea55a00dcb23f8bbdc2f70b0b0ab9ff1310
-Section: Utilities
-Description: Конвертация Flex патчей в твики
-Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
-Depiction: https://rejail.ru/depiction.php?file=ftt
-Name: Flex To Theos
-Sileodepiction: https://rejail.ru/sileo/depiction.php?file=ftt
-
-Package: ru.rj.ftt
-Version: 0.6
-Architecture: iphoneos-arm
-Maintainer: ReJail <rejail@rejail.ru>
-Installed-Size: 359
-Depends: mobilesubstrate, com.randy420.tools (>=1.7)
-Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
 Filename: ./debs/rootfull/ru.rj.ftt_0.6_iphoneos-arm.deb
 Size: 43032
 MD5sum: aac93c2705d18e2e2082e0864ac98c8a
@@ -670,6 +658,22 @@ Size: 119156
 MD5sum: 8f76fe96b69ba318eafe33f449d42a66
 SHA1: bc37f0d86e1762045870fb75e9da02f461b0d21b
 SHA256: e29960fc3753ed60f64b4321826dd8235b3a78440bbe96dc1ce5de9beba4936a
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
+
+Package: zp.cocoatop64.unject
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 504
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/rootless/zp.cocoatop64.unject_3.0.3_iphoneos-arm64.deb
+Size: 138046
+MD5sum: 43194d9bfbe23c757d30d6e524438be1
+SHA1: 17467392a944f2ec10e9acee941f26cf72936133
+SHA256: 83af0cab6447a3334d9a6aff7b1b66821f3d437bb45d67cb34fa8149a375686a
 Section: Utilities
 Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
 Author: Domo, SXX , zp
