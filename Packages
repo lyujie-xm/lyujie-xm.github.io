@@ -92,6 +92,40 @@ Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard 滑雪板主题整合安装
 
+Package: com.lclrc.hammerit
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2288
+Depends: mobilesubstrate, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debs/rootless/com.lclrc.hammerit_1.3.2_iphoneos-arm64.deb
+Size: 438646
+MD5sum: 868d074aac59a71f7a4ace30fb6f2e0c
+SHA1: feb04c33f44b9874d7286b9d806a46e5fa458ffd
+SHA256: 242ead98105d987fd6376457a455ee38babcf32b4c2c5cf31ad7e607fe963446
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
+Package: com.lclrc.squidgesture
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 672
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/rootless/com.lclrc.squidgesture_1.0_iphoneos-arm64.deb
+Size: 111766
+MD5sum: 19fbfdf26f21e9b14d79961a258d21bb
+SHA1: 470e80560a074ebb9d6dc710ea66d0f17bfe85b8
+SHA256: be55853bd3a0109ad97b0e8e75ad12ffb28f3a0114dea149195e225058341b86
+Section: Tweaks
+Description: Gestures
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture@3x.png
+Name: SquidGesture
+
 Package: com.qingyue.accelerator
 Version: 1.1.4
 Architecture: iphoneos-arm
