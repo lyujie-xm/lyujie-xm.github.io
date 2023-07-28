@@ -438,6 +438,23 @@ Description: 按往常一样进入微信修改地区，输入你想要的内容�
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
 
+Package: jp.akusio.milkyway4
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: @akusio_RR
+Installed-Size: 3464
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debs/rootless/jp.akusio.milkyway4_0.1.1_iphoneos-arm64.deb
+Size: 1313898
+MD5sum: 4a30fc9b4d66260be1fc532d40066a0b
+SHA1: 9ce6a80d1bbb87ffb13c1cc56bbc7a80c795e615
+SHA256: 2e9fa59ded0856ca107f58249f1f626fda12e0743fbb4a04d05fcb3aef69f825
+Section: Tweaks
+Description: multitasking for iOS15 rootless.
+Author: @akusio_RR
+Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
+Name: MilkyWay4-rootless
+
 Package: netskao.documentscrack
 Version: 1.1-2
 Architecture: iphoneos-arm
@@ -487,6 +504,24 @@ Tag: purpose::extension
 Author: bb
 Dev: bb
 Name: 开心消消乐助手
+
+Package: ploosh.debstealer
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Ploosh <me@ploosh.dev>
+Installed-Size: 8
+Depends: firmware (>= 11.0)
+Filename: ./debs/rootless/ploosh.debstealer_1.0.4_iphoneos-arm64.deb
+Size: 1124
+MD5sum: f5a61a0313fcacbc7b161cd5ad90e6c2
+SHA1: 51b764b281efbe9ab429b29b252b65bb5216d7b4
+SHA256: eac4bbad7277d7d8b40e6ced033dee81ffa1a4c953aed03523b9e337259b61e9
+Section: Utilities
+Description: steal debs
+Author: Ploosh
+Icon: https://repo.ploosh.dev/assets/debstealer.png
+Name: DebStealer
+Sileodepiction: https://repo.ploosh.dev/meta/debstealer.json
 
 Package: qingyue.360mobilesafe
 Version: 1.0
