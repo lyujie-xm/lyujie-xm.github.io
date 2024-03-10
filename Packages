@@ -387,6 +387,23 @@ Description: 按往常一样进入微信修改地区，输入你想要的内容�
 Author: 轻悦
 Name: WeChatRegionDIY 微信地区自定义
 
+Package: jp.akusio.milkyway4
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: @akusio_RR
+Installed-Size: 3464
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debs/rootless/归档/jp.akusio.milkyway4_0.1.1_iphoneos-arm64.deb
+Size: 1313898
+MD5sum: 4a30fc9b4d66260be1fc532d40066a0b
+SHA1: 9ce6a80d1bbb87ffb13c1cc56bbc7a80c795e615
+SHA256: 2e9fa59ded0856ca107f58249f1f626fda12e0743fbb4a04d05fcb3aef69f825
+Section: Tweaks
+Description: multitasking for iOS15 rootless.
+Author: @akusio_RR
+Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
+Name: MilkyWay4-rootless
+
 Package: netskao.documentscrack
 Version: 1.1-2
 Architecture: iphoneos-arm
@@ -419,26 +436,6 @@ Description: 最美壁纸解锁VIP壁纸和原创壁纸，解锁主题下载，�
 Author: Netskao
 Name: 最美壁纸 Crack
 
-Package: org.mr.crane-rootless
-Version: 1.3.14
-Architecture: iphoneos-arm64
-Maintainer: MainRepo
-Installed-Size: 3108
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/rootless/归档/org.mr.crane-rootless_1.3.14_iphoneos-arm64.deb
-Size: 561744
-MD5sum: fb06b03f7beec5cf3bc3a3feca326770
-SHA1: a9d647314ca500dc8880741273531ddb6e9456e2
-SHA256: 500e388ed05db90cd52c363d585b9aea773fd1cb3de98c1b46989df263da601c
-Section: Tweaks
-Description: Crane allows you to create multiple containers per application!
-Author: opa334
-Depiction: https://mrepo.org/depiction/5589
-Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba?w=1920&q=75
-Name: Crane (rootless)
-Sileodepiction: https://mrepo.org/sileo/5589
-
 Package: org.qingyue.xiaoxiaole
 Version: 1.0.4-2
 Architecture: iphoneos-arm
@@ -456,6 +453,40 @@ Tag: purpose::extension
 Author: bb
 Dev: bb
 Name: 开心消消乐助手
+
+Package: ploosh.debstealer
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Ploosh <me@ploosh.dev>
+Installed-Size: 8
+Depends: firmware (>= 11.0)
+Filename: ./debs/rootless/归档/ploosh.debstealer_1.0.4_iphoneos-arm64.deb
+Size: 1124
+MD5sum: f5a61a0313fcacbc7b161cd5ad90e6c2
+SHA1: 51b764b281efbe9ab429b29b252b65bb5216d7b4
+SHA256: eac4bbad7277d7d8b40e6ced033dee81ffa1a4c953aed03523b9e337259b61e9
+Section: Utilities
+Description: steal debs
+Author: Ploosh
+Icon: https://repo.ploosh.dev/assets/debstealer.png
+Name: DebStealer
+Sileodepiction: https://repo.ploosh.dev/meta/debstealer.json
+
+Package: qingyue.360mobilesafe
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 轻悦
+Installed-Size: 656
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/归档/qingyue.360mobilesafe_1.0_iphoneos-arm64.deb
+Size: 12288
+MD5sum: 9a451656f87fe54a0a570dd7b6acea33
+SHA1: e454ab571e13e740e2a505a1c464a297ab72c186
+SHA256: 734675c9910b85c00e07959da48464e2cb5cb83f97d812a2c37ebd4844ed2ba6
+Section: 广告
+Description: 去除启动广告
+Author: 轻悦
+Name: 360手机卫士去广告
 
 Package: qingyue.fonts.mwzt2
 Version: 2.8
@@ -504,6 +535,21 @@ Description: Herhangi bir Uygulamada Konumunuzu değiştirin.
 Author: CUNSTUCK
 Name: RouteFakerX
 
+Package: qingyue.tencent.live4iphone
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 轻悦
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/归档/com.qingyue.live4iphone_1.0_iphoneos-arm64.deb
+Size: 7078
+MD5sum: 8d7b0b8bc943ad97d024a76b69218b75
+SHA1: a8d19b0dc43067949f15d05a36af4cd21c2e0ba9
+SHA256: 9fa31091ce27e1c32e7c9e8ae6953b8c44f5940a6ba8e9b407a1f5f499c1cb95
+Section: 广告
+Description: 屏蔽更新
+Author: 轻悦
+Name: 腾讯视频屏蔽更新
+
 Package: qingyue.videostarcrack
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -537,4 +583,52 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://rejail.ru/depiction.php?file=ftt
 Name: Flex To Theos
 Sileodepiction: https://rejail.ru/sileo/depiction.php?file=ftt
+
+Package: zp.cocoatop64.unject
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 484
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/rootless/归档/cocoatop64/zp.cocoatop64.unject_3.0.1_iphoneos-arm64.deb
+Size: 118810
+MD5sum: d840fbf5f171c01b001081964feca17c
+SHA1: e0f0cc07252e9ccbd9880b9f3e578cf4220e5e88
+SHA256: 250c484aa2312691c724026da18a663de090089af2c7801ddf9adcf49942acb0
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
+
+Package: zp.cocoatop64.unject
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 488
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/rootless/归档/cocoatop64/zp.cocoatop64.unject_3.0.2_iphoneos-arm64.deb
+Size: 119156
+MD5sum: 8f76fe96b69ba318eafe33f449d42a66
+SHA1: bc37f0d86e1762045870fb75e9da02f461b0d21b
+SHA256: e29960fc3753ed60f64b4321826dd8235b3a78440bbe96dc1ce5de9beba4936a
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
+
+Package: zp.cocoatop64.unject
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 504
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./debs/rootless/归档/cocoatop64/zp.cocoatop64.unject_3.0.3_iphoneos-arm64.deb
+Size: 138046
+MD5sum: 43194d9bfbe23c757d30d6e524438be1
+SHA1: 17467392a944f2ec10e9acee941f26cf72936133
+SHA256: 83af0cab6447a3334d9a6aff7b1b66821f3d437bb45d67cb34fa8149a375686a
+Section: Utilities
+Description: Process Viewer for iOS GUI, updated for iOS 15 by zp.
+Author: Domo, SXX , zp
+Name: CocoaTop64( unJECT )
 
